@@ -1,0 +1,17 @@
+{
+    "websites": [
+        "facebook.com",
+        "instagram.com",
+        "linkedin.com",
+        "x.com"
+    ],
+    "block_days": [
+        "MON",
+        "TUE",
+        "WED",
+        "THU",
+        "FRI"
+    ],
+    "block_start": "09:00",
+    "block_end": "20:00"
+}
